@@ -1,0 +1,5 @@
+- Create first repo (done)
+- Add files to the repo (done)
+- Hands on exercise
+- Pulling form remote source
+- Minor knowldge about diffreces between diffenert Git packages
